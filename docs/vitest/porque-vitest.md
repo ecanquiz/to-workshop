@@ -17,5 +17,5 @@ Vitest tiene como objetivo posicionarse como el corredor de pruebas elegido para
 Puede consultar la sección [Comparaciones](https://vitest.dev/guide/comparisons.html) para obtener más detalles sobre cómo Vitest se diferencia de otras herramientas similares.
 
 ---
-Hablando de [comparación](../vitest/usando-comparadores.html), es momento de pasar al siguiente segmento.
+Hablando de, es momento de pasar al siguiente segmento.
 
